@@ -1,0 +1,8 @@
+name = input("Enter emp name: ")
+sal = int(input("Enter salary: "))
+desig = input("Enter position: ")
+tax = sal * 0.1
+print("Name:", name)
+print("Salary:", sal)
+print("Designation:", desig)
+print("Tax:", tax)
